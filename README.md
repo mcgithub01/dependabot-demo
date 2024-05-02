@@ -7,6 +7,12 @@
 </h1>
 
 # Dependabot Demo Repository
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmcgithub01%2Fdependabot-demo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmcgithub01%2Fdependabot-demo?ref=badge_shield)
+
 
 This repo contains some projects with outdated dependencies. Fork it to try out
 Dependabot :dependabot:!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmcgithub01%2Fdependabot-demo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmcgithub01%2Fdependabot-demo?ref=badge_large)
